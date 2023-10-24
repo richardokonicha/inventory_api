@@ -52,7 +52,3 @@ Contributions are welcome! Please follow the [Contributing Guidelines](CONTRIBUT
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Please make sure to replace the placeholders (such as `https://example.com/ims-logo.png`, `yourusername`, etc.) with actual information relevant to your project. Additionally, you may want to include other sections like Testing, Deployment, and Acknowledgements, depending on your project's requirements.
